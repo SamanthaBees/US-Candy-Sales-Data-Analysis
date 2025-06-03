@@ -1,5 +1,5 @@
 # US-Candy-Sales-Data-Analysis
-
+![image alt](https://github.com/SamanthaBees/US-Candy-Sales-Data-Analysis/blob/main/US_Candy.jpg?raw=true)
 # About
 
 This SQL project explores sales data from a U.S. national candy distributor to gain insights into top-performing product divisions, sales trends, and customer behavior. By analyzing this data, the goal is to identify opportunities for improving and optimizing sales strategies. The dataset includes sales and geospatial information related to factory-to-customer shipments, encompassing customer and factory locations, sales orders and goals, as well as detailed product information.
