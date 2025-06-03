@@ -4,7 +4,7 @@
 
 This SQL project explores sales data from a U.S. national candy distributor to gain insights into top-performing product divisions, sales trends, and customer behavior. By analyzing this data, the goal is to identify opportunities for improving and optimizing sales strategies. The dataset includes sales and geospatial information related to factory-to-customer shipments, encompassing customer and factory locations, sales orders and goals, as well as detailed product information.
 
-Data Source: Maven Analytics.
+Data Source: [Maven Analytics.](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=US%20Candy%20Distributor)
 
 # Objective
 The main objective of this project is to analyze sales performance, profitability, and customer trends using SQL. This involves answering key business questions that support data-driven decision-making for sales optimization and operational improvements.
@@ -14,11 +14,12 @@ The dataset, titled "US Candy Distributor", was obtained from Maven Analytics an
 
 # Business Questions
 
-***Overview*** 
+***Overview***
+```
 a. Annual Sales by Division (2021-2024)
 b. Annual Profit Margin by Division (2021-2024)
 c. Total Orders by Division (2021-2024 )
-
+```
 ***Part I: Sales Performance And Profitability***
 1. What are the total sales, orders, cost, gross profit, and profit margin by Country for 2024?
 2. What are the quarterly sales trends for 2024?
@@ -41,4 +42,4 @@ c. Total Orders by Division (2021-2024 )
 2. Which provinces/states in Canada and the USA generate the highest profitability for candy sales in 2024, and how does their profit margin percentage compare across these regions?
 3. What is the distribution of customers by state/province, and which states generate the most revenue?
 4. How does the population density of a region (US Zips) correlate with the number of orders?
-5. 
+   
