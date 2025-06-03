@@ -36,7 +36,6 @@ c. Total Orders by Division (2021-2024 )
 3. Which products contribute to 80% of the total profit?
 4. Which factories produce the highest profitable products?
 5. Which divisions are underperforming in sales relative to their 2024 targets?
-
 ***Part III: Geographical And Demographic Analysis***
 1. What is the distribution of sales by country and division?
 2. Which provinces/states in Canada and the USA generate the highest profitability for candy sales in 2024, and how does their profit margin percentage compare across these regions?
